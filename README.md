@@ -42,7 +42,7 @@ This Streamlit application provides a comprehensive analysis of Istanbul's traff
 
 ## 📊 Data Source
 
-Data is obtained from the IMM Open Data Portal. The dataset shows traffic density in Istanbul on a GEOHASH basis.
+Data is obtained from the IMM(Istanbul Buyuksehir Belediyesi(IBB)) Open Data Portal. The dataset shows traffic density in Istanbul on a GEOHASH basis.
 
 ## 🔍 Usage
 
@@ -54,5 +54,3 @@ Data is obtained from the IMM Open Data Portal. The dataset shows traffic densit
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
