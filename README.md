@@ -12,14 +12,14 @@ This Streamlit application provides a comprehensive analysis of Istanbul's traff
 - Analysis of highest and lowest traffic regions
 ## 📊 Screenshots
 ### Interactive Traffic Density Map
-![Traffic Density Map]()
+![Traffic Density Map](screenshots/traffic-density-map.png)
 *PyDeck visualization showing traffic density across Istanbul with color-coded indicators*
 ### Time Series Analysis
-![Time Series Graph]()
+![Time Series Graph](screenshots/time_series.png)
 *Traffic trends over time for selected GEOHASH regions*
 ### Statistical Dashboard
-![Statistics Dashboard]()
+![Statistics Dashboard](screenshots/statistics.png)
 *Summary statistics and regional analysis*
 ### Filtering Options
-![Filters]()
+![Filters](screenshots/filters.png)
 *Interactive sidebar filters for data exploration*
