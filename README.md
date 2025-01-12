@@ -56,6 +56,5 @@ For this dataset and other datasets: https://data.ibb.gov.tr/dataset
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔍 Local URL (Website link) And Code Link
-URL: http://localhost:8501/
+## 🔍 Code Link
 Code: [traffic_density.py](https://github.com/omerfarukyuce/Istanbul-Traffic-Density-Analysis-December-2024-/blob/main/traffic_density.py)
