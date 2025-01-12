@@ -1,5 +1,5 @@
 # Istanbul-Traffic-Density-Analysis-December-2024-
-This Streamlit application provides a comprehensive analysis of Istanbul's traffic density using real-time data from the Istanbul Metropolitan Municipality (IMM) Open Data Portal. The project visualizes traffic patterns across different regions of Istanbul using GEOHASH-based mapping and offers interactive data exploration capabilities.
+This Streamlit application provides a comprehensive analysis of Istanbul's traffic density using real-time data from the Istanbul Buyuksehir Belediyesi (IBB) Open Data Portal. The project visualizes traffic patterns across different regions of Istanbul using GEOHASH-based mapping and offers interactive data exploration capabilities.
 ## 🚀 Features
 
 - Interactive traffic density map
@@ -42,7 +42,7 @@ This Streamlit application provides a comprehensive analysis of Istanbul's traff
 
 ## 📊 Data Source
 
-Data is obtained from the IMM(Istanbul Buyuksehir Belediyesi(IBB)) Open Data Portal. The dataset shows traffic density in Istanbul on a GEOHASH basis.
+Data is obtained from the IMM(Istanbul Buyuksehir Belediyesi (IBB)) Open Data Portal. The dataset shows traffic density in Istanbul on a GEOHASH basis.
 For this dataset and other datasets: https://data.ibb.gov.tr/dataset 
 
 ## 🔍 Usage
@@ -56,6 +56,6 @@ For this dataset and other datasets: https://data.ibb.gov.tr/dataset
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔍 Local URL(Website link) And Code Link
+## 🔍 Local URL (Website link) And Code Link
 URL: http://localhost:8501/
 Code: [traffic_density.py](https://github.com/omerfarukyuce/Istanbul-Traffic-Density-Analysis-December-2024-/blob/main/traffic_density.py)
