@@ -54,3 +54,6 @@ Data is obtained from the IMM(Istanbul Buyuksehir Belediyesi(IBB)) Open Data Por
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Local URL(Website link)
+http://localhost:8501/
