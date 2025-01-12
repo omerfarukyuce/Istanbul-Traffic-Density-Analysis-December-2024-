@@ -30,7 +30,7 @@ This Streamlit application provides a comprehensive analysis of Istanbul's traff
 *PyDeck visualization showing traffic density across Istanbul with color-coded indicators*
 
 ### Time Series Analysis And Bot Traffic Regions
-![Time Series Graph And Bot Regions](sscreenshots/BotTrafficRegionAndTrafficTrends.png)
+![Time Series Graph And Bot Regions](screenshots/BotTrafficRegionAndTrafficTrends.png)
 *Traffic trends over time for selected GEOHASH regions and it shows bot traffic regions*
 
 
