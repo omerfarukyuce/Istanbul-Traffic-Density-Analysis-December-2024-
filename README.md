@@ -33,4 +33,26 @@ This Streamlit application provides a comprehensive analysis of Istanbul's traff
 ![Time Series Graph And Bot Regions](screenshots/BotTrafficRegionAndTrafficTrends.png)
 *Traffic trends over time for selected GEOHASH regions and it shows bot traffic regions*
 
+## 📦 Requirements
+- Python 3.8+
+- Streamlit
+- Pandas
+- PyDeck
+- Altair
+
+## 📊 Data Source
+
+Data is obtained from the IMM Open Data Portal. The dataset shows traffic density in Istanbul on a GEOHASH basis.
+
+## 🔍 Usage
+
+1. Select a GEOHASH region from the sidebar
+2. View traffic density on the map
+3. Examine statistics and graphs
+4. Optionally download filtered data in CSV format
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
